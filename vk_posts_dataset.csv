@@ -1,0 +1,507 @@
+community,post_id,date,text_length,is_interactive,is_shop_post,has_poll,has_link,has_video,attachments,views,likes,comments,reposts
+ozon,2574722,2026-11-23 14:00:02,281,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",26288,219,77,12
+ozon,2574596,2026-11-23 11:00:02,305,False,True,False,False,True,"photo, video",30854,317,154,6
+ozon,2574525,2026-11-23 09:15:00,831,True,False,False,False,False,photo,61350,494,67,28
+ozon,2574345,2026-11-23 07:00:01,424,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",24077,234,25,3
+ozon,2573411,2026-11-22 09:00:00,0,False,False,False,False,False,text_only,29139,314,86,7
+ozon,2573208,2026-11-21 14:00:01,391,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",42420,359,46,29
+ozon,2573119,2026-11-21 09:00:44,0,False,False,False,False,True,video,2261,268,35,26
+ozon,2572814,2026-11-20 14:00:02,489,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",39706,265,65,15
+ozon,2572657,2026-11-20 12:00:01,940,False,True,False,False,False,photo,61311,226,23,8
+ozon,2572368,2026-11-20 07:00:03,217,False,True,False,False,False,photo,43060,269,80,5
+ozon,2571320,2026-11-19 14:00:53,0,False,False,False,False,True,video,2570,266,35,16
+ozon,2570896,2026-11-19 11:00:01,300,False,True,False,False,True,"photo, video",50188,358,192,11
+ozon,2570191,2026-11-19 07:00:14,1253,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",44877,251,55,17
+ozon,2567948,2026-11-18 14:00:32,0,False,False,False,False,True,video,2551,314,53,33
+ozon,2567243,2026-11-18 12:00:01,905,True,True,False,False,False,photo,72332,243,33,17
+ozon,2565337,2026-11-18 07:00:26,618,True,True,False,False,False,"photo, photo",271679,1209,6268,150
+ozon,2564892,2026-11-17 14:00:34,0,False,False,False,False,True,video,2681,237,40,12
+ozon,2564694,2026-11-17 12:00:01,261,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",51286,330,46,20
+ozon,2564412,2026-11-17 09:00:01,1096,True,True,False,False,False,photo,778643,12273,2547,8114
+ozon,2564152,2026-11-16 14:00:27,0,False,False,False,False,True,video,3562,373,82,43
+ozon,2563997,2026-11-16 11:00:02,271,True,True,False,False,True,"photo, video",58522,358,242,5
+ozon,2563906,2026-11-16 09:00:07,278,True,False,False,False,False,photo,91748,599,74,17
+ozon,2563796,2026-11-16 07:00:02,131,False,False,False,False,False,photo,94933,339,142,26
+ozon,2563326,2026-11-15 14:00:41,0,False,False,False,False,True,video,2911,315,34,76
+ozon,2563189,2026-11-15 09:00:00,286,False,True,False,False,False,photo,52848,249,56,8
+ozon,2562929,2026-11-14 14:00:03,447,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",27917,142,42,4
+ozon,2562832,2026-11-14 09:00:01,0,False,False,False,False,False,text_only,33177,182,60,11
+ozon,2562636,2026-11-13 14:00:19,517,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",54036,221,35,9
+ozon,2562540,2026-11-13 11:00:00,290,False,True,False,False,True,"photo, video",56631,329,235,10
+ozon,2562495,2026-11-13 07:00:03,257,False,True,False,False,True,video,55096,229,42,11
+ozon,2562344,2026-11-12 14:00:13,0,False,False,False,False,True,video,2764,252,54,20
+ozon,2562316,2026-11-12 12:00:49,1158,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",101901,237,14,58
+ozon,2562252,2026-11-12 07:00:02,312,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",131128,247,17,51
+ozon,2562087,2026-11-11 14:00:52,286,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",69172,191,20,16
+ozon,2562063,2026-11-11 12:00:38,0,False,False,False,False,True,video,2456,173,31,7
+ozon,2561965,2026-11-11 08:11:00,344,False,True,False,False,False,"photo, photo",101057,259,104,13
+ozon,2561618,2026-11-10 14:00:07,0,False,False,False,False,True,video,3114,41,23,5
+ozon,2561361,2026-11-10 09:00:01,972,True,True,False,False,False,photo,553523,6216,1311,2786
+ozon,2561310,2026-11-10 07:00:07,240,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",69780,233,72,71
+ozon,2561140,2026-11-09 14:00:36,0,False,False,False,False,True,video,3553,245,44,26
+ozon,2561055,2026-11-09 11:00:02,276,False,True,False,False,True,"photo, video",68537,344,279,21
+ozon,2561006,2026-11-09 09:00:08,274,True,False,False,False,False,photo,102701,554,53,20
+ozon,2560909,2026-11-09 07:00:01,299,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",52385,200,48,9
+ozon,2560462,2026-11-08 14:00:00,293,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",58053,238,45,15
+ozon,2560356,2026-11-08 09:00:01,0,False,False,False,False,False,text_only,37186,202,49,9
+ozon,2560227,2026-11-07 18:46:37,210,False,False,False,False,False,"photo, photo, photo",80428,236,33,4
+ozon,2560008,2026-11-07 09:00:02,0,False,False,False,False,False,text_only,40333,163,62,10
+ozon,2559829,2026-11-06 14:00:36,0,False,False,False,False,True,video,3173,344,44,9
+ozon,2559750,2026-11-06 12:00:50,0,False,False,False,False,True,video,2558,186,36,18
+ozon,2559028,2026-11-06 09:00:04,456,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",76232,191,199,43
+ozon,2558937,2026-11-06 07:00:02,848,True,True,False,False,False,photo,99023,382,98,104
+ozon,2558737,2026-11-05 14:00:02,1248,True,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",75960,251,37,38
+ozon,2558663,2026-11-05 11:00:34,385,False,True,False,False,False,photo,80124,301,196,10
+ozon,2558628,2026-11-05 08:01:50,0,False,False,False,False,True,video,2780,342,21,31
+ozon,2558296,2026-11-04 09:00:47,852,False,False,False,False,False,photo,67294,233,79,4
+ozon,2557945,2026-11-03 14:00:25,0,False,False,False,False,True,video,4677,258,59,22
+ozon,2557742,2026-11-03 10:35:28,13,False,False,False,False,False,photo,248898,955,167,141
+ozon,2557677,2026-11-03 09:00:01,952,True,True,False,False,False,photo,771708,6524,1715,2529
+ozon,2557655,2026-11-03 07:45:22,396,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",58230,212,12,10
+ozon,2557461,2026-11-02 14:00:01,20,False,False,False,False,False,photo,135374,373,56,29
+ozon,2557370,2026-11-02 11:00:42,234,False,True,False,False,True,"photo, video",51500,338,125,9
+ozon,2557294,2026-11-02 09:00:04,365,True,False,False,False,False,photo,128091,731,84,25
+ozon,2557087,2026-11-02 07:00:01,270,False,True,False,False,True,video,54711,315,47,7
+ozon,2556295,2026-11-01 14:00:20,0,False,False,False,False,True,video,3316,335,15,11
+ozon,2556095,2026-11-01 09:00:00,914,False,True,False,False,False,photo,72214,393,127,21
+ozon,2555842,2026-10-31 12:00:00,1185,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",54685,305,30,18
+ozon,2555787,2026-10-31 09:00:01,638,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",54016,293,23,16
+ozon,2555565,2026-10-30 15:00:00,312,True,True,False,False,False,photo,111326,700,74,136
+ozon,2555553,2026-10-30 14:00:37,0,False,False,False,False,True,video,2382,53,3,0
+ozon,2555483,2026-10-30 11:00:00,62,False,False,False,False,False,photo,140853,318,51,28
+ozon,2555386,2026-10-30 07:00:02,270,False,False,False,False,False,"photo, photo, photo, photo, photo",51973,196,36,5
+ozon,2554999,2026-10-29 14:00:34,0,False,False,False,False,True,video,2829,230,55,19
+ozon,2554814,2026-10-29 11:00:36,296,False,True,False,False,False,photo,88643,329,200,14
+ozon,2554753,2026-10-29 07:00:04,746,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",50522,207,22,19
+ozon,2554480,2026-10-28 14:10:14,0,False,False,False,False,True,video,3239,320,42,131
+ozon,2554426,2026-10-28 11:00:03,259,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",47248,202,17,6
+ozon,2554241,2026-10-28 07:00:28,237,False,True,False,False,True,video,43050,220,59,22
+ozon,2554231,2026-10-28 06:42:30,192,False,False,False,False,False,"photo, photo, photo, photo",45508,195,18,5
+ozon,2553676,2026-10-27 14:05:35,0,False,False,False,False,True,video,2779,228,17,19
+ozon,2553323,2026-10-27 09:00:01,1057,True,True,False,False,False,photo,1041830,12892,2886,4828
+ozon,2553295,2026-10-27 07:00:00,412,True,True,False,False,False,photo,68221,276,24,13
+ozon,2553098,2026-10-26 14:00:35,0,False,False,False,False,True,video,3364,278,33,40
+ozon,2553096,2026-10-26 14:00:01,216,False,True,False,False,False,photo,71053,294,59,11
+ozon,2552979,2026-10-26 11:00:02,300,True,True,False,False,False,photo,77506,381,246,18
+ozon,2552957,2026-10-26 09:00:04,268,True,False,False,False,False,photo,138955,511,64,12
+ozon,2552898,2026-10-26 07:00:52,0,False,False,False,False,True,video,2564,64,4,13
+ozon,2551922,2026-10-24 12:00:00,322,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",61127,252,40,13
+ozon,2551871,2026-10-24 09:00:00,47,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",72821,285,47,53
+ozon,2551675,2026-10-23 14:00:02,484,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",55013,224,26,29
+ozon,2551608,2026-10-23 11:00:00,269,False,True,False,False,False,photo,66776,273,164,12
+ozon,2551579,2026-10-23 07:00:02,1044,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",61721,244,10,23
+ozon,2551436,2026-10-22 14:00:01,276,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",50792,199,24,27
+ozon,2551358,2026-10-22 11:00:05,0,False,False,False,False,True,video,2681,235,18,17
+ozon,2551313,2026-10-22 07:00:01,272,False,True,False,False,False,photo,107152,292,52,38
+ozon,2551200,2026-10-21 14:00:03,0,False,False,False,False,True,video,2744,262,10,26
+ozon,2551156,2026-10-21 11:00:18,186,False,False,False,False,False,"photo, photo",47924,174,19,8
+ozon,2551086,2026-10-21 07:00:01,805,False,True,False,False,False,photo,53837,199,23,10
+ozon,2550784,2026-10-20 14:00:27,0,False,False,False,False,True,video,2849,287,10,86
+ozon,2550691,2026-10-20 09:00:00,974,True,True,False,False,False,photo,427187,4251,992,1296
+ozon,2550680,2026-10-20 07:00:58,0,False,False,False,False,True,video,2930,358,12,24
+wildberries_ru,8,2026-10-09 12:13:07,64,False,False,False,False,False,text_only,0,0,0,0
+wildberries_ru,5,2026-07-09 06:33:10,20,False,False,False,False,False,photo,0,0,0,0
+wildberries_ru,4,2026-05-09 08:22:55,933,True,False,False,False,False,text_only,0,0,1,0
+wildberries_ru,3,2026-03-24 11:48:52,96,False,False,False,False,False,text_only,0,0,0,0
+wildberries_ru,2,2026-03-17 09:24:08,203,False,False,False,False,False,text_only,0,0,0,0
+wildberries_ru,1,2026-03-06 11:57:01,136,False,False,False,False,False,text_only,0,0,0,0
+nahodki_wb_ozon,10245,2026-02-05 14:13:50,23,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",34029,33,1,24
+nahodki_wb_ozon,10323,2026-11-02 09:46:31,76,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo",6715,7,1,12
+nahodki_wb_ozon,10321,2026-11-01 07:14:55,276,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo, photo",1746,4,1,3
+nahodki_wb_ozon,10319,2026-10-31 07:00:20,138,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",1355,1,1,3
+nahodki_wb_ozon,10317,2026-10-30 07:01:09,139,False,True,False,False,False,"photo, photo, photo, photo, photo",30,2,1,0
+nahodki_wb_ozon,10311,2026-07-14 08:46:31,32,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1328,2,1,0
+nahodki_wb_ozon,10310,2026-07-09 11:08:10,0,False,False,False,False,False,text_only,97,0,0,0
+nahodki_wb_ozon,10308,2026-07-07 15:09:01,19,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",2482,3,1,2
+nahodki_wb_ozon,10306,2026-07-04 09:06:36,20,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1490,2,1,1
+nahodki_wb_ozon,10304,2026-06-29 11:21:22,126,False,True,False,False,False,photo,529,0,1,1
+nahodki_wb_ozon,10303,2026-06-22 19:53:34,31,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1867,1,0,0
+nahodki_wb_ozon,10301,2026-06-14 11:09:28,10,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1270,1,1,1
+nahodki_wb_ozon,10299,2026-06-12 13:59:50,144,False,True,False,False,False,"photo, photo, photo, photo, photo",147,0,1,1
+nahodki_wb_ozon,10297,2026-06-09 17:05:36,110,False,True,False,False,False,photo,274,0,1,0
+nahodki_wb_ozon,10295,2026-06-09 15:51:16,140,False,True,False,False,False,"photo, photo, photo",129,0,1,0
+nahodki_wb_ozon,10291,2026-06-09 14:34:26,120,False,True,False,False,False,"photo, photo",671,2,1,3
+nahodki_wb_ozon,10289,2026-06-09 13:03:44,108,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",363,0,1,0
+nahodki_wb_ozon,10287,2026-06-06 09:52:30,124,False,False,False,False,False,photo,725,2,1,1
+nahodki_wb_ozon,10285,2026-06-04 04:54:11,261,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo, photo",1767,2,1,1
+nahodki_wb_ozon,10283,2026-06-03 08:05:31,1528,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",280,0,1,1
+nahodki_wb_ozon,10280,2026-06-02 20:50:48,121,False,False,False,False,False,photo,219,0,1,0
+nahodki_wb_ozon,10277,2026-05-05 17:22:26,22,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",165,1,0,1
+nahodki_wb_ozon,10275,2026-05-03 07:29:45,17,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",3330,4,1,12
+nahodki_wb_ozon,10273,2026-05-01 19:27:25,2,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",502,4,1,0
+nahodki_wb_ozon,10270,2026-04-28 10:25:14,500,False,True,False,False,True,"video, photo, photo, photo, photo, photo",162,6,1,0
+nahodki_wb_ozon,10269,2026-04-22 19:47:09,35,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",3381,7,0,17
+nahodki_wb_ozon,10266,2026-04-20 12:26:43,24,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",796,3,1,1
+nahodki_wb_ozon,10265,2026-04-07 14:36:33,7,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",953,6,0,1
+nahodki_wb_ozon,10263,2026-03-30 12:02:36,26,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1751,6,1,4
+nahodki_wb_ozon,10261,2026-03-13 09:59:44,27,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",979,5,1,0
+nahodki_wb_ozon,10259,2026-03-13 07:21:00,81,False,True,False,False,False,photo,344,2,1,1
+nahodki_wb_ozon,10258,2026-03-09 16:24:27,745,False,False,False,False,False,photo,2274,1,0,0
+nahodki_wb_ozon,10256,2026-02-26 09:00:00,105,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",16197,26,1,31
+nahodki_wb_ozon,10253,2026-02-20 06:00:01,265,False,True,False,False,False,"photo, photo, photo, photo, photo",293,1,0,0
+nahodki_wb_ozon,10249,2026-02-14 20:41:39,24,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",11069,21,1,18
+nahodki_wb_ozon,10247,2026-02-10 13:14:55,24,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",2647,27,1,14
+nahodki_wb_ozon,10243,2026-02-02 13:11:00,30,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",2532,15,1,2
+nahodki_wb_ozon,10241,2026-02-01 07:34:57,15,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",691,11,1,3
+nahodki_wb_ozon,10239,2026-01-29 20:25:53,3,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",5065,15,1,6
+nahodki_wb_ozon,10237,2026-01-27 15:20:56,15,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",18195,29,1,10
+nahodki_wb_ozon,10235,2026-01-24 03:00:00,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",28654,41,1,30
+nahodki_wb_ozon,10232,2026-01-21 19:35:17,88,False,True,False,False,False,"photo, photo, photo, photo, photo",1479,5,0,6
+nahodki_wb_ozon,10229,2026-01-19 16:49:00,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",2637,20,1,12
+nahodki_wb_ozon,10228,2026-01-19 14:48:00,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1153,5,1,3
+nahodki_wb_ozon,10224,2026-01-19 12:47:46,27,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",1089,5,1,1
+nahodki_wb_ozon,10222,2026-01-17 19:58:00,722,True,False,False,False,False,"photo, photo, photo, photo, photo",414,4,1,1
+nahodki_wb_ozon,10219,2026-01-13 08:00:01,185,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo",342,6,1,0
+nahodki_wb_ozon,10218,2026-01-13 07:00:00,44,False,True,False,False,False,"photo, photo, photo, photo, photo",293,5,1,0
+nahodki_wb_ozon,10217,2026-01-12 08:30:00,219,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",322,7,0,2
+nahodki_wb_ozon,10216,2026-01-12 07:13:17,171,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",272,3,0,0
+nahodki_wb_ozon,10206,2026-01-02 11:02:05,24,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",32211,55,1,39
+nahodki_wb_ozon,10204,2026-01-01 20:41:39,15,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",521,6,1,0
+nahodki_wb_ozon,10202,2025-12-29 15:05:39,3,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",5536,16,1,2
+nahodki_wb_ozon,10200,2025-12-28 12:58:04,24,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",8795,29,1,7
+nahodki_wb_ozon,10197,2025-12-27 13:25:15,29,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",1285,19,1,6
+nahodki_wb_ozon,10196,2025-12-27 11:33:36,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",521,3,1,0
+nahodki_wb_ozon,10194,2025-12-26 21:32:50,21,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",548,2,1,0
+nahodki_wb_ozon,10192,2025-12-25 08:00:01,57,False,True,False,False,False,"photo, photo, photo, photo, photo",302,5,1,1
+nahodki_wb_ozon,10188,2025-12-23 19:56:18,2,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",12313,29,1,17
+nahodki_wb_ozon,10186,2025-12-23 11:44:31,21,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",860,6,1,2
+nahodki_wb_ozon,10185,2025-12-22 12:48:00,27,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",703,7,0,1
+nahodki_wb_ozon,10181,2025-12-22 10:32:31,33,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",2008,10,1,5
+nahodki_wb_ozon,10179,2025-12-21 17:41:20,26,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",2021,13,1,3
+nahodki_wb_ozon,10177,2025-12-21 15:31:21,25,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",920,4,1,0
+nahodki_wb_ozon,10175,2025-12-19 16:51:07,37,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",476,2,1,2
+nahodki_wb_ozon,10173,2025-12-18 14:33:39,30,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1926,10,1,4
+nahodki_wb_ozon,10171,2025-12-17 18:12:30,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",841,8,1,1
+nahodki_wb_ozon,10169,2025-12-17 16:29:30,24,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",874,4,1,0
+nahodki_wb_ozon,10167,2025-12-17 16:00:00,50,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1199,12,1,1
+nahodki_wb_ozon,10165,2025-12-17 14:20:30,23,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",15657,44,1,22
+nahodki_wb_ozon,10162,2025-12-16 12:04:11,23,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",9790,22,1,8
+nahodki_wb_ozon,10160,2025-12-16 11:26:47,15,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",10108,33,1,15
+nahodki_wb_ozon,10158,2025-12-16 09:40:49,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",1878,7,1,1
+nahodki_wb_ozon,10156,2025-12-15 09:28:33,19,False,False,False,False,False,"photo, photo, photo, photo, photo",5017,6,1,4
+nahodki_wb_ozon,10155,2025-12-15 09:10:43,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",2081,8,0,2
+nahodki_wb_ozon,10153,2025-12-15 08:00:00,176,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo",453,2,1,0
+nahodki_wb_ozon,10149,2025-12-14 08:04:23,27,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",5155,10,1,1
+nahodki_wb_ozon,10147,2025-12-11 20:07:25,21,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",10009,22,1,14
+nahodki_wb_ozon,10145,2025-12-11 12:15:00,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",30788,80,1,33
+nahodki_wb_ozon,10143,2025-12-10 07:20:28,24,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",5417,14,1,3
+nahodki_wb_ozon,10141,2025-12-07 20:40:42,45,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",10617,27,1,23
+nahodki_wb_ozon,10140,2025-12-05 10:55:44,14,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",538,2,0,0
+nahodki_wb_ozon,10138,2025-12-04 14:23:19,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",1542,8,1,2
+nahodki_wb_ozon,10136,2025-12-03 14:46:29,21,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",2102,8,1,4
+nahodki_wb_ozon,10134,2025-12-01 10:32:29,17,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1815,19,1,7
+nahodki_wb_ozon,10133,2025-11-28 11:01:00,29,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",6661,26,0,29
+nahodki_wb_ozon,10130,2025-11-28 09:29:22,25,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",13272,39,1,29
+nahodki_wb_ozon,10129,2025-11-27 13:57:00,18,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",6893,34,0,20
+nahodki_wb_ozon,10126,2025-11-27 10:17:53,25,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",3166,17,1,4
+nahodki_wb_ozon,10124,2025-11-26 08:25:00,20,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",1040,4,1,3
+nahodki_wb_ozon,10121,2025-11-25 10:53:00,14,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",6650,34,1,17
+nahodki_wb_ozon,10118,2025-11-25 08:33:25,17,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",1545,14,1,4
+nahodki_wb_ozon,10115,2025-11-24 13:38:46,32,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",3958,24,1,14
+nahodki_wb_ozon,10114,2025-11-24 09:00:01,179,False,False,False,False,False,"photo, photo, photo, photo, photo",550,2,0,2
+nahodki_wb_ozon,10112,2025-11-24 07:51:55,25,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",21563,69,1,43
+nahodki_wb_ozon,10110,2025-11-23 20:54:10,14,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",10250,35,1,24
+nahodki_wb_ozon,10106,2025-11-22 09:33:58,3,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",3398,6,1,1
+nahodki_wb_ozon,10103,2025-11-21 12:13:00,13,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, audio",1141,2,1,0
+nahodki_wb_ozon,10099,2025-11-21 08:37:04,29,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",8804,47,1,19
+nahodki_wb_ozon,10098,2025-11-20 08:47:00,26,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",1409,5,1,2
+aliexpress,3691180,2026-11-19 09:06:02,845,False,True,False,False,False,photo,12790,22,29,0
+aliexpress,3691404,2026-11-23 18:23:40,0,False,False,False,False,True,video,167,67,1,22
+aliexpress,3691388,2026-11-23 13:27:46,819,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",6951,15,2,0
+aliexpress,3691372,2026-11-23 10:41:00,145,False,False,False,False,False,photo,17171,38,3,37
+aliexpress,3691337,2026-11-23 08:41:49,164,False,False,False,False,False,photo,10188,22,0,1
+aliexpress,3691325,2026-11-23 06:05:22,446,False,True,False,False,True,video,224,60,4,7
+aliexpress,3691304,2026-11-22 12:00:02,490,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",16858,18,8,0
+aliexpress,3691297,2026-11-22 09:00:44,89,False,False,False,False,False,photo,83394,83,14,75
+aliexpress,3691293,2026-11-22 05:51:40,354,False,False,False,False,True,video,473,114,0,29
+aliexpress,3691285,2026-11-21 18:04:16,707,True,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",10761,13,0,0
+aliexpress,3691272,2026-11-21 11:15:44,648,True,False,False,False,False,"photo, photo, photo, photo, photo, photo",23684,30,6,1
+aliexpress,3691267,2026-11-21 06:50:22,487,True,False,False,False,True,video,409,169,19,84
+aliexpress,3691250,2026-11-20 12:15:49,667,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",15644,19,0,0
+aliexpress,3691235,2026-11-20 09:12:12,456,False,False,False,False,False,photo,12076,20,5,0
+aliexpress,3691224,2026-11-20 05:35:44,344,False,False,False,False,True,video,479,228,26,244
+aliexpress,3691214,2026-11-19 13:12:55,670,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",22345,29,0,5
+aliexpress,3691177,2026-11-19 08:37:00,126,False,False,False,False,False,photo,15744,33,0,3
+aliexpress,3691171,2026-11-19 05:46:11,377,False,False,False,False,True,video,628,333,8,160
+aliexpress,3691156,2026-11-18 19:35:19,0,False,False,False,False,True,video,383,78,5,20
+aliexpress,3691154,2026-11-18 18:22:47,0,False,False,False,False,True,video,542,239,10,197
+aliexpress,3691146,2026-11-18 15:05:07,708,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",35879,20,0,5
+aliexpress,3691133,2026-11-18 13:06:23,538,True,False,False,False,False,photo,19203,24,17,1
+aliexpress,3691123,2026-11-18 11:05:01,728,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",33655,23,2,1
+aliexpress,3691099,2026-11-18 07:58:12,367,False,False,False,False,False,photo,25276,22,5,0
+aliexpress,3691047,2026-11-18 05:31:52,390,False,False,False,False,True,video,469,169,2,70
+aliexpress,3690859,2026-11-17 19:29:48,0,False,False,False,False,True,video,344,82,0,24
+aliexpress,3690839,2026-11-17 18:31:42,0,False,False,False,False,True,video,415,127,2,25
+aliexpress,3690811,2026-11-17 13:01:20,430,False,True,False,False,False,photo,29665,28,6,6
+aliexpress,3690761,2026-11-17 07:00:25,578,False,True,False,False,False,photo,19052,17,2,0
+aliexpress,3690756,2026-11-17 05:10:44,569,False,True,False,False,True,video,403,98,2,43
+aliexpress,3690737,2026-11-16 19:01:36,39,False,False,False,False,True,video,415,107,16,135
+aliexpress,3690721,2026-11-16 12:27:17,698,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",23204,21,0,2
+aliexpress,3690708,2026-11-16 08:12:53,33,False,False,False,False,True,video,402,117,2,27
+aliexpress,3690704,2026-11-16 07:00:43,388,True,True,False,False,False,photo,18282,20,0,0
+aliexpress,3690699,2026-11-16 04:59:19,493,False,True,False,False,True,video,427,96,13,30
+aliexpress,3690668,2026-11-15 15:03:03,52,False,False,False,False,True,video,526,209,0,66
+aliexpress,3690667,2026-11-15 14:50:02,355,False,False,False,False,False,photo,24889,22,5,1
+aliexpress,3690661,2026-11-15 12:20:23,780,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",36278,26,0,4
+aliexpress,3690647,2026-11-15 05:54:09,534,False,False,False,False,True,video,348,66,6,8
+aliexpress,3690633,2026-11-14 18:12:34,44,False,False,False,False,True,video,1164,306,16,42
+aliexpress,3690630,2026-11-14 17:32:22,47,False,False,False,False,True,video,400,95,7,47
+aliexpress,3690616,2026-11-14 10:09:13,633,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",25370,23,4,0
+aliexpress,3690609,2026-11-14 06:01:03,335,False,False,False,False,True,video,369,91,0,33
+aliexpress,3690580,2026-11-13 14:24:01,147,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",63755,40,3,6
+aliexpress,3690570,2026-11-13 11:23:28,287,False,False,False,False,False,photo,34503,28,4,4
+aliexpress,3690560,2026-11-13 09:04:15,682,True,True,False,False,False,"photo, photo, photo, photo, photo, photo",21531,27,2,1
+aliexpress,3690547,2026-11-13 06:09:10,460,True,False,False,False,True,video,343,68,8,4
+aliexpress,3690522,2026-11-12 18:08:21,44,False,False,False,False,True,video,520,188,20,38
+aliexpress,3690496,2026-11-12 14:41:57,887,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",28795,22,0,4
+aliexpress,3690460,2026-11-12 11:35:02,700,False,True,False,False,False,photo,44174,195,411,40
+aliexpress,3690456,2026-11-12 10:10:26,617,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",20693,21,2,2
+aliexpress,3690445,2026-11-12 05:59:30,422,False,True,False,False,True,video,354,69,0,10
+aliexpress,3690418,2026-11-11 14:03:29,603,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",22128,21,3,2
+aliexpress,3690415,2026-11-11 13:34:50,45,False,False,False,False,True,video,1349,881,33,778
+aliexpress,3690396,2026-11-11 08:24:20,48,False,False,False,False,True,video,326,42,1,9
+aliexpress,3690366,2026-11-11 08:00:31,453,False,True,False,False,False,photo,17543,21,4,1
+aliexpress,3690350,2026-11-11 05:37:48,432,False,False,False,False,True,video,429,52,1,4
+aliexpress,3690326,2026-11-10 14:33:17,94,False,False,False,False,True,video,403,59,5,2
+aliexpress,3690319,2026-11-10 11:05:04,650,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",19478,23,2,1
+aliexpress,3690296,2026-11-10 07:17:40,0,False,False,False,False,True,video,456,99,15,45
+aliexpress,3690294,2026-11-10 06:46:13,437,False,False,False,False,True,video,461,115,9,32
+aliexpress,3690268,2026-11-09 13:54:00,610,True,True,False,False,False,"photo, photo, photo, photo, photo, photo",21203,22,3,0
+aliexpress,3690259,2026-11-09 10:54:00,311,False,False,False,False,False,photo,16187,18,1,1
+aliexpress,3690208,2026-11-09 08:54:02,589,False,False,False,False,False,"photo, photo, photo, photo, photo",21262,19,0,3
+aliexpress,3690192,2026-11-09 05:08:54,612,False,True,False,False,True,video,404,50,3,3
+aliexpress,3690191,2026-11-09 04:05:57,878,False,True,False,False,True,video,416,58,4,5
+aliexpress,3690176,2026-11-08 07:00:16,316,False,True,False,False,False,photo,18526,22,2,1
+aliexpress,3690166,2026-11-08 04:44:29,445,False,False,False,False,True,video,736,256,26,38
+aliexpress,3690147,2026-11-07 18:45:00,392,False,True,False,False,False,photo,17386,22,4,1
+aliexpress,3690142,2026-11-07 16:45:32,655,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",32326,32,3,4
+aliexpress,3690138,2026-11-07 14:41:42,681,False,True,False,False,True,video,552,144,6,88
+aliexpress,3690132,2026-11-07 13:55:23,0,False,False,False,False,True,video,1422,1012,5,82
+aliexpress,3690127,2026-11-07 10:18:58,159,False,False,False,False,False,photo,18745,17,0,1
+aliexpress,3690118,2026-11-07 07:54:31,0,False,False,False,False,True,video,342,38,0,7
+aliexpress,3690109,2026-11-07 05:55:32,715,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",21196,19,0,1
+aliexpress,3690066,2026-11-06 15:48:49,0,False,False,False,False,True,video,939,540,13,134
+aliexpress,3690054,2026-11-06 13:47:15,0,False,False,False,False,True,video,736,344,24,66
+aliexpress,3690036,2026-11-06 12:02:06,149,False,True,False,False,False,photo,14369,20,2,0
+aliexpress,3690017,2026-11-06 09:04:36,1561,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",30000,21,4,4
+aliexpress,3690005,2026-11-06 05:13:26,634,False,True,False,False,True,video,494,113,15,31
+aliexpress,3689988,2026-11-05 14:39:04,807,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",25995,30,8,5
+aliexpress,3689965,2026-11-05 08:39:00,606,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",26802,27,5,1
+aliexpress,3689958,2026-11-05 05:06:23,681,False,True,False,False,True,video,492,119,2,36
+aliexpress,3689944,2026-11-04 17:12:36,971,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",22312,26,1,2
+aliexpress,3689934,2026-11-04 09:27:53,294,False,True,False,False,False,photo,16878,24,4,0
+aliexpress,3689919,2026-11-04 05:45:32,491,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",33765,27,3,6
+aliexpress,3689869,2026-11-03 12:45:59,645,False,True,False,False,False,photo,32718,23,5,2
+aliexpress,3689854,2026-11-03 08:59:40,762,False,True,False,False,False,"photo, photo, photo, photo, photo, photo",23176,26,5,2
+aliexpress,3689836,2026-11-03 06:05:09,387,True,False,False,False,False,photo,23987,22,19,1
+aliexpress,3689833,2026-11-03 05:16:45,562,False,False,False,False,True,video,497,93,6,28
+aliexpress,3689818,2026-11-02 17:02:06,254,False,True,False,False,False,photo,52537,30,6,2
+aliexpress,3689803,2026-11-02 11:48:44,505,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",34433,27,3,4
+aliexpress,3689783,2026-11-02 05:43:51,456,False,True,False,False,True,video,590,102,1,17
+aliexpress,3689765,2026-11-01 19:13:06,54,False,False,False,False,True,video,1156,632,20,415
+aliexpress,3689757,2026-11-01 16:58:23,43,False,False,False,False,True,video,693,210,8,45
+aliexpress,3689756,2026-11-01 16:45:24,822,False,True,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo",31415,29,6,14
+aliexpress,3689717,2026-11-01 14:24:05,476,False,False,False,False,False,photo,40900,33,2,4
+aliexpress,3689701,2026-11-01 07:00:12,876,False,True,False,False,False,photo,42505,55,131,12
+aliexpress,3689697,2026-11-01 05:19:13,602,False,True,False,False,True,video,563,122,1,10
+aliexpress,3689669,2026-10-31 17:10:15,324,False,True,False,False,False,text_only,31586,26,4,3
+thevillage,974381,2023-04-07 16:00:14,826,False,True,False,True,False,link,6968,6,1,4
+thevillage,974380,2023-04-07 15:00:06,1054,False,True,False,True,False,link,5437,5,1,2
+thevillage,974379,2023-04-07 13:00:05,831,False,True,False,True,False,link,5082,6,0,6
+thevillage,974377,2023-04-06 19:00:08,1581,False,True,False,True,False,link,6643,14,0,4
+thevillage,974376,2023-04-06 18:45:05,1321,False,True,False,True,False,link,3822,4,3,2
+thevillage,974375,2023-04-06 18:30:05,877,False,True,False,True,False,link,2823,1,0,2
+thevillage,974373,2023-04-01 12:00:10,776,False,True,False,True,False,link,5127,1,1,3
+thevillage,974372,2023-04-01 11:00:06,197,False,True,False,True,False,link,1346,0,0,0
+thevillage,974371,2023-04-01 09:00:07,801,False,True,False,True,False,link,2101,0,0,1
+thevillage,974370,2023-03-31 17:30:06,310,False,True,False,True,False,link,1095,2,0,0
+thevillage,974369,2023-03-31 15:00:14,543,False,True,False,True,False,link,1335,1,1,3
+thevillage,974368,2023-03-31 13:45:03,752,False,True,False,True,False,link,3355,8,1,2
+thevillage,974367,2023-03-31 11:00:08,766,False,True,False,True,False,link,2067,3,0,1
+thevillage,974366,2023-03-31 10:06:04,839,False,True,False,True,False,link,996,1,0,0
+thevillage,974365,2023-03-30 15:44:21,1279,True,True,False,True,False,link,905,1,0,0
+thevillage,974364,2023-03-30 14:00:08,691,False,True,False,True,False,link,807,0,0,0
+thevillage,974363,2023-03-30 13:00:07,613,True,True,False,True,False,link,791,0,0,2
+thevillage,974361,2023-03-29 17:20:05,838,False,True,False,True,False,link,1080,1,0,0
+thevillage,974360,2023-03-29 16:00:15,632,False,True,False,True,False,link,865,1,0,1
+thevillage,974359,2023-03-29 15:00:06,709,True,True,False,True,False,link,4482,17,0,10
+thevillage,974358,2023-03-29 14:00:05,495,False,True,False,True,False,link,592,1,0,0
+thevillage,974357,2023-03-29 13:00:07,763,False,True,False,True,False,link,2759,2,0,3
+thevillage,974356,2023-03-29 12:01:05,722,False,True,False,True,False,link,731,1,0,0
+thevillage,974355,2023-03-29 10:30:07,423,False,True,False,True,False,link,532,0,0,1
+thevillage,974354,2023-03-29 08:30:04,712,False,True,False,True,False,link,2438,7,0,10
+thevillage,974353,2023-03-28 16:30:05,443,False,True,False,True,False,link,578,1,0,0
+thevillage,974352,2023-03-28 12:30:05,660,False,True,False,True,False,link,666,1,0,0
+thevillage,974351,2023-03-28 12:05:06,652,False,True,False,True,False,link,1468,0,0,1
+thevillage,974350,2023-03-27 17:30:07,303,False,True,False,True,False,link,777,1,0,0
+thevillage,974349,2023-03-27 16:40:03,648,False,True,False,True,False,link,884,1,0,1
+thevillage,974348,2023-03-27 15:00:07,334,False,True,False,True,False,link,686,0,0,0
+thevillage,974347,2023-03-27 13:00:09,684,False,True,False,True,False,link,855,0,0,0
+thevillage,974346,2023-03-27 11:00:09,650,False,True,False,True,False,link,2000,4,0,7
+thevillage,974345,2023-03-27 09:05:06,608,False,True,False,True,False,link,862,0,0,2
+thevillage,974343,2023-03-25 15:00:05,817,False,True,False,True,False,link,3203,7,0,3
+thevillage,974342,2023-03-25 13:00:09,748,False,True,False,True,False,link,2997,2,1,5
+thevillage,974341,2023-03-25 12:00:12,647,False,True,False,True,False,link,4064,2,0,4
+thevillage,974340,2023-03-24 16:00:12,504,False,True,False,True,False,link,730,0,0,1
+thevillage,974339,2023-03-24 12:00:12,1204,False,True,False,True,False,link,5042,7,1,6
+thevillage,974338,2023-03-24 10:00:06,496,False,True,False,True,False,link,641,0,0,0
+thevillage,974337,2023-03-24 08:30:04,455,False,True,False,True,False,link,642,1,0,1
+thevillage,974336,2023-03-23 17:15:03,686,False,True,False,True,False,link,883,1,0,0
+thevillage,974335,2023-03-23 13:00:09,595,False,True,False,True,False,link,649,0,0,0
+thevillage,974334,2023-03-23 12:00:10,755,False,True,False,True,False,link,849,2,0,0
+thevillage,974333,2023-03-23 11:00:07,759,True,True,False,True,False,link,2057,1,0,0
+thevillage,974332,2023-03-23 09:00:08,529,False,True,False,True,False,link,600,0,0,0
+thevillage,974331,2023-03-23 08:00:11,848,False,True,False,True,False,link,4945,2,0,0
+thevillage,974327,2023-03-22 11:20:03,940,False,False,False,False,False,text_only,5074,5,0,12
+thevillage,974325,2023-03-22 07:15:03,585,False,True,False,True,False,link,829,1,0,1
+thevillage,974323,2023-03-21 16:20:04,477,False,True,False,True,False,link,783,1,2,0
+thevillage,974322,2023-03-21 15:00:07,1021,False,True,False,True,False,link,2321,3,0,1
+thevillage,974320,2023-03-21 11:30:07,496,False,True,False,True,False,link,684,0,0,0
+thevillage,974319,2023-03-21 10:00:10,634,False,True,False,True,False,link,637,1,0,0
+thevillage,974318,2023-03-21 08:30:06,729,False,True,False,True,False,link,741,0,0,0
+thevillage,974317,2023-03-20 13:10:06,659,False,True,False,True,False,link,2179,1,1,1
+thevillage,974316,2023-03-20 12:00:09,514,False,True,False,True,False,link,1887,7,0,2
+thevillage,974315,2023-03-20 11:15:04,675,False,True,False,True,False,link,1130,2,1,1
+thevillage,974313,2023-03-20 09:20:05,614,False,True,False,True,False,link,3058,10,0,13
+thevillage,974307,2023-03-17 18:30:08,712,True,True,False,True,False,link,4813,9,4,2
+thevillage,974306,2023-03-17 18:00:09,743,False,True,False,True,False,link,4175,3,1,11
+thevillage,974304,2023-03-17 16:00:08,568,False,True,False,True,False,link,628,2,1,0
+thevillage,974303,2023-03-17 15:35:04,520,False,True,False,True,False,link,631,1,0,0
+thevillage,974302,2023-03-17 13:50:03,572,False,True,False,True,False,link,495,0,0,0
+thevillage,974301,2023-03-17 10:30:03,445,False,True,False,True,False,link,444,0,0,0
+thevillage,974300,2023-03-17 09:10:03,647,True,True,False,True,False,link,483,0,0,0
+thevillage,974298,2023-03-16 17:11:24,433,False,True,False,True,False,link,1034,2,0,2
+thevillage,974297,2023-03-16 15:20:05,730,True,True,False,True,False,link,1329,0,0,1
+thevillage,974296,2023-03-16 13:50:03,581,False,True,False,True,False,link,622,0,0,1
+thevillage,974295,2023-03-16 12:00:19,769,False,True,False,True,False,link,2986,2,0,5
+thevillage,974294,2023-03-16 11:00:06,312,False,True,False,True,False,link,724,0,0,0
+thevillage,974293,2023-03-16 10:05:06,426,False,True,False,True,False,link,407,0,0,1
+thevillage,974292,2023-03-16 08:00:06,707,False,True,False,True,False,link,2479,1,0,2
+thevillage,974291,2023-03-15 12:00:19,482,False,True,False,True,False,link,310,0,0,0
+thevillage,974290,2023-03-15 11:00:07,557,False,True,False,True,False,link,578,1,0,1
+thevillage,974289,2023-03-15 10:00:06,453,False,True,False,True,False,link,784,1,0,2
+thevillage,974288,2023-03-15 09:35:03,301,False,True,False,True,False,link,427,0,0,0
+thevillage,974287,2023-03-15 09:00:06,695,False,True,False,True,False,link,2905,6,0,5
+thevillage,974286,2023-03-14 19:43:02,661,False,True,False,True,False,link,608,1,0,1
+thevillage,974285,2023-03-14 18:00:13,558,False,True,False,True,False,link,666,1,0,0
+thevillage,974284,2023-03-14 12:00:23,318,False,True,False,True,False,link,542,0,0,0
+thevillage,974283,2023-03-14 10:35:03,289,False,True,False,True,False,link,609,0,0,0
+thevillage,974280,2023-03-14 08:00:08,379,False,True,False,True,False,link,708,0,0,1
+thevillage,974279,2023-03-13 17:00:06,379,False,True,False,True,False,link,660,0,0,3
+thevillage,974277,2023-03-13 15:00:06,871,True,True,False,True,False,link,2387,1,0,0
+thevillage,974276,2023-03-13 14:00:08,346,False,True,False,True,False,link,619,1,0,0
+thevillage,974275,2023-03-13 11:30:05,269,False,True,False,True,False,link,638,0,0,0
+thevillage,974274,2023-03-13 10:00:06,390,False,True,False,True,False,link,685,0,0,1
+thevillage,974273,2023-03-13 09:00:07,589,False,True,False,True,False,link,1655,1,0,1
+thevillage,974272,2023-03-12 09:00:08,449,False,True,False,True,False,link,3748,11,0,11
+thevillage,974271,2023-03-11 12:00:08,468,False,True,False,True,False,link,968,0,0,0
+thevillage,974270,2023-03-10 17:00:07,985,False,True,False,True,False,link,901,1,0,1
+thevillage,974269,2023-03-10 13:20:04,685,True,True,False,True,False,link,3892,4,0,1
+thevillage,974267,2023-03-10 09:40:04,502,False,True,False,True,False,link,1130,1,0,1
+thevillage,974266,2023-03-09 17:00:11,376,False,True,False,True,False,link,646,0,0,0
+thevillage,974265,2023-03-09 15:50:06,463,False,True,False,True,False,link,750,1,0,0
+thevillage,974264,2023-03-09 13:00:04,686,False,True,False,True,False,link,916,0,0,0
+thevillage,974263,2023-03-09 12:00:11,504,False,True,False,True,False,link,3252,3,0,17
+thevillage,974262,2023-03-09 11:00:06,670,False,True,False,True,False,link,570,1,0,0
+thevillage,974261,2023-03-09 10:05:04,592,True,True,False,True,False,link,932,0,0,0
+thevillage,974260,2023-03-08 15:10:07,462,False,True,False,True,False,link,1272,2,0,0
+lifehacker_ru,390204,2026-11-02 07:22:04,0,False,False,False,False,True,video,5118,3,0,0
+lifehacker_ru,390365,2026-11-23 16:23:56,279,False,False,False,False,False,photo,3112,8,1,4
+lifehacker_ru,390363,2026-11-23 12:02:10,318,False,False,False,False,False,photo,3468,4,1,1
+lifehacker_ru,390361,2026-11-23 11:23:27,23,True,False,True,False,False,poll,2220,4,1,0
+lifehacker_ru,390359,2026-11-23 07:45:54,2185,False,False,False,False,False,photo,3704,6,0,4
+lifehacker_ru,390358,2026-11-22 10:51:44,33,False,False,False,False,False,photo,7678,45,0,28
+lifehacker_ru,390357,2026-11-21 10:23:55,2894,False,False,False,False,False,photo,9530,12,0,15
+lifehacker_ru,390356,2026-11-20 16:55:30,76,True,False,True,False,False,poll,1725,1,0,0
+lifehacker_ru,390355,2026-11-20 16:02:21,432,False,False,False,False,False,photo,6720,3,0,2
+lifehacker_ru,390354,2026-11-20 14:02:00,531,False,False,False,False,False,photo,5710,5,0,0
+lifehacker_ru,390352,2026-11-20 12:01:00,433,False,False,False,False,False,photo,5317,6,0,1
+lifehacker_ru,390351,2026-11-20 11:34:48,218,False,False,False,False,False,photo,3465,3,0,0
+lifehacker_ru,390349,2026-11-20 10:36:08,512,False,False,False,False,False,photo,2331,2,0,4
+lifehacker_ru,390347,2026-11-20 08:02:54,291,False,False,False,False,False,photo,3038,2,0,0
+lifehacker_ru,390344,2026-11-20 07:26:53,2986,True,False,False,False,False,photo,2114,3,0,1
+lifehacker_ru,390343,2026-11-19 17:33:20,3679,False,False,False,False,False,text_only,4172,9,0,12
+lifehacker_ru,390342,2026-11-19 16:01:39,443,False,False,False,False,False,photo,5586,1,0,1
+lifehacker_ru,390339,2026-11-19 11:00:00,235,False,False,False,False,False,"photo, photo",2284,12,0,1
+lifehacker_ru,390338,2026-11-19 08:02:00,484,False,True,False,False,False,photo,3601,2,0,0
+lifehacker_ru,390335,2026-11-19 07:15:23,173,False,False,False,False,False,text_only,3334,3,3,0
+lifehacker_ru,390334,2026-11-18 17:16:13,136,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",7826,7,0,10
+lifehacker_ru,390333,2026-11-18 16:02:00,502,False,False,False,False,False,photo,3717,3,0,0
+lifehacker_ru,390332,2026-11-18 14:02:14,548,False,False,False,False,False,photo,3446,9,0,1
+lifehacker_ru,390327,2026-11-18 11:35:50,588,False,False,False,False,False,photo,5232,7,1,2
+lifehacker_ru,390325,2026-11-18 08:01:59,364,False,False,False,False,False,photo,2528,3,0,0
+lifehacker_ru,390323,2026-11-18 07:24:30,25,True,False,True,False,False,poll,1980,3,0,0
+lifehacker_ru,390321,2026-11-17 18:44:44,732,False,False,False,False,False,photo,2960,5,1,2
+lifehacker_ru,390320,2026-11-17 16:48:24,730,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",3178,12,0,17
+lifehacker_ru,390319,2026-11-17 11:42:15,1406,False,False,False,False,False,photo,3604,5,0,1
+lifehacker_ru,390318,2026-11-17 07:26:24,1,True,False,True,False,False,poll,2791,1,0,0
+lifehacker_ru,390316,2026-11-16 17:22:45,1333,False,False,False,False,False,"photo, photo, photo, photo",3814,10,1,9
+lifehacker_ru,390315,2026-11-16 14:35:29,446,False,False,False,False,False,photo,3840,1,0,0
+lifehacker_ru,390313,2026-11-16 11:31:24,125,False,False,False,False,False,photo,3982,5,0,2
+lifehacker_ru,390311,2026-11-16 08:02:33,329,False,False,False,False,False,photo,3015,0,0,0
+lifehacker_ru,390310,2026-11-16 07:23:54,2167,False,False,False,False,False,photo,2900,10,0,5
+lifehacker_ru,390308,2026-11-15 10:37:17,1241,False,False,False,False,False,"photo, photo, photo, photo",2989,12,1,6
+lifehacker_ru,390307,2026-11-14 15:49:53,38,False,False,False,False,False,photo,12356,64,1,9
+lifehacker_ru,390305,2026-11-14 10:15:02,436,False,False,False,False,False,doc,4091,5,0,1
+lifehacker_ru,390303,2026-11-13 17:48:24,1199,False,False,False,False,False,"photo, photo, photo, photo",5617,7,1,12
+lifehacker_ru,390300,2026-11-13 11:37:47,1571,False,False,False,False,False,photo,11846,38,1,8
+lifehacker_ru,390299,2026-11-13 07:24:20,27,True,False,True,False,False,poll,3878,3,0,0
+lifehacker_ru,390297,2026-11-12 16:45:48,756,True,False,False,False,False,photo,4918,4,0,5
+lifehacker_ru,390294,2026-11-12 11:00:20,373,False,False,False,False,False,"photo, photo",2574,10,2,2
+lifehacker_ru,390293,2026-11-12 08:02:41,326,False,False,False,False,False,photo,3885,2,0,1
+lifehacker_ru,390291,2026-11-12 07:25:25,17,True,False,True,False,False,poll,2748,3,0,0
+lifehacker_ru,390289,2026-11-11 17:44:50,466,False,False,False,False,False,photo,3333,2,2,5
+lifehacker_ru,390287,2026-11-11 14:00:03,284,False,False,False,False,False,"photo, photo",4728,6,0,0
+lifehacker_ru,390286,2026-11-11 12:10:49,290,False,False,False,False,False,photo,3792,4,0,0
+lifehacker_ru,390285,2026-11-11 11:37:59,479,True,False,False,False,False,"photo, photo, photo, photo, photo, photo",4271,7,0,9
+lifehacker_ru,390283,2026-11-11 08:13:12,291,False,False,False,False,False,photo,1656,3,0,0
+lifehacker_ru,390276,2026-11-11 07:13:34,126,False,False,False,False,False,text_only,3774,3,3,0
+lifehacker_ru,390273,2026-11-10 18:50:04,198,False,False,False,False,False,photo,3421,0,1,11
+lifehacker_ru,390271,2026-11-10 14:25:24,713,False,False,False,False,False,text_only,6114,8,2,12
+lifehacker_ru,390270,2026-11-10 14:12:20,317,False,False,False,False,False,photo,3751,6,0,0
+lifehacker_ru,390267,2026-11-10 10:35:12,1755,False,False,False,False,False,photo,1837,7,0,4
+lifehacker_ru,390265,2026-11-10 08:39:52,350,False,False,False,False,False,photo,3712,5,0,6
+lifehacker_ru,390260,2026-11-10 07:15:31,62,False,False,False,False,False,text_only,3515,0,8,0
+lifehacker_ru,390257,2026-11-09 18:44:44,479,False,False,False,False,False,photo,3460,6,1,6
+lifehacker_ru,390256,2026-11-09 15:11:21,33,False,False,False,False,False,photo,3277,17,0,1
+lifehacker_ru,390255,2026-11-09 14:05:37,322,False,False,False,False,False,photo,2842,3,1,2
+lifehacker_ru,390253,2026-11-09 12:05:29,278,False,False,False,False,False,photo,1479,0,0,1
+lifehacker_ru,390251,2026-11-09 10:44:45,416,False,False,False,False,False,photo,6222,14,0,6
+lifehacker_ru,390250,2026-11-09 07:26:25,31,True,False,True,False,False,poll,2827,2,0,0
+lifehacker_ru,390248,2026-11-08 17:40:53,38,False,False,False,False,False,photo,10306,59,1,7
+lifehacker_ru,390247,2026-11-08 10:30:56,290,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo, photo, photo, photo",2217,10,0,0
+lifehacker_ru,390244,2026-11-07 18:13:58,1621,False,False,False,False,False,"photo, photo, photo, photo, photo",12315,31,1,37
+lifehacker_ru,390243,2026-11-07 10:25:23,1091,True,False,False,False,False,text_only,4903,12,0,4
+lifehacker_ru,390242,2026-11-06 13:05:42,479,True,False,False,False,False,photo,1805,6,0,2
+lifehacker_ru,390241,2026-11-06 12:07:14,315,True,False,False,False,False,photo,3407,4,0,0
+lifehacker_ru,390240,2026-11-06 10:25:55,2708,False,False,False,False,False,photo,11925,27,0,15
+lifehacker_ru,390239,2026-11-06 07:34:56,136,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",4066,12,0,8
+lifehacker_ru,390237,2026-11-05 15:49:00,441,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",3133,12,0,8
+lifehacker_ru,390235,2026-11-05 10:35:18,119,False,False,False,False,False,photo,6601,16,0,5
+lifehacker_ru,390234,2026-11-05 10:07:07,308,False,False,False,False,False,"photo, photo, photo",4484,20,0,8
+lifehacker_ru,390230,2026-11-05 07:40:18,52,False,False,False,False,False,text_only,4565,4,6,0
+lifehacker_ru,390228,2026-11-04 18:12:25,293,False,False,False,False,False,photo,6090,3,1,5
+lifehacker_ru,390227,2026-11-04 10:16:51,135,False,False,False,False,False,"photo, photo, photo, photo, photo, photo, photo",4631,11,0,4
+lifehacker_ru,390224,2026-11-03 18:47:16,1036,False,False,False,False,False,"photo, photo, photo, photo",1686,5,1,4
+lifehacker_ru,390223,2026-11-03 14:41:57,2109,False,False,False,False,False,photo,1507,5,0,3
+lifehacker_ru,390220,2026-11-03 10:12:24,3539,True,False,False,False,False,text_only,6310,19,0,12
+lifehacker_ru,390215,2026-11-03 07:23:18,167,False,False,False,False,False,text_only,5242,8,5,0
+lifehacker_ru,390213,2026-11-02 15:12:46,660,False,False,False,False,False,photo,7740,14,1,12
+lifehacker_ru,390209,2026-11-02 14:02:21,499,False,False,False,False,False,photo,3280,5,0,2
+lifehacker_ru,390207,2026-11-02 10:29:25,17,True,False,True,False,False,poll,4362,6,3,0
+lifehacker_ru,390206,2026-11-02 08:01:20,268,False,False,False,False,False,photo,1763,2,0,0
+lifehacker_ru,390205,2026-11-02 07:23:29,3269,False,False,False,False,False,text_only,6558,19,0,19
+lifehacker_ru,390203,2026-11-01 17:44:19,240,False,False,False,False,False,"photo, photo",2663,9,0,5
+lifehacker_ru,390202,2026-11-01 10:20:58,46,False,False,False,False,False,"photo, photo, photo, photo, photo, photo",7507,25,0,9
+lifehacker_ru,390199,2026-10-31 17:46:39,1021,False,False,False,False,False,"photo, photo, photo, photo",5007,3,1,10
+lifehacker_ru,390197,2026-10-31 10:24:10,38,False,False,False,False,False,photo,7159,18,1,4
+lifehacker_ru,390195,2026-10-30 16:32:01,227,False,False,False,False,False,photo,5838,11,1,5
+lifehacker_ru,390192,2026-10-30 13:42:37,67,False,False,False,False,False,text_only,2357,2,0,0
+lifehacker_ru,390190,2026-10-30 12:11:57,393,False,False,False,False,False,"photo, photo",3287,15,0,4
+lifehacker_ru,390189,2026-10-30 12:02:10,401,False,False,False,False,False,photo,2720,6,0,1
+lifehacker_ru,390187,2026-10-30 09:15:52,20,False,False,False,False,False,photo,6140,40,0,6
+lifehacker_ru,390184,2026-10-29 18:46:22,438,False,False,False,False,False,photo,2164,1,0,0
+lifehacker_ru,390182,2026-10-29 14:01:33,249,False,False,False,False,False,photo,4165,2,0,0
+lifehacker_ru,390180,2026-10-29 12:30:16,616,False,False,False,False,False,photo,4720,2,1,1
+lifehacker_ru,390179,2026-10-29 12:02:00,484,False,False,False,False,False,photo,3150,3,0,1
+lifehacker_ru,390178,2026-10-29 11:11:48,398,False,False,False,False,False,photo,1341,7,0,2
